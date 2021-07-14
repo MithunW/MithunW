@@ -8,7 +8,7 @@
 
 * 🎓 I am an Undergraduate of Department of Computer Science and Engineering - University of Moratuwa, Sri Lanka.
 * ⚡ I'm a full stack web developer
-* 🔭 I'm a currently doing my internship at Sysco LABS technologies Pvt Ltd.
+* 🔭 Former trainee Software Engineer at Sysco LABS technologies Pvt Ltd.
 
 
 <!--
