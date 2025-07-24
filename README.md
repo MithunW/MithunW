@@ -6,6 +6,4 @@
 
 ## 📖 About me
 
-* 🎓 I am an Undergraduate of Department of Computer Science and Engineering - University of Moratuwa, Sri Lanka.
-* ⚡ I'm a full stack developer
-* 🔭 Former trainee Software Engineer at Sysco LABS technologies Pvt Ltd.
+* I’m a Software Engineer with 3 years of hands-on experience in backend development, cloud computing, and infrastructure automation. My core expertise includes Java, Spring Boot, AWS, and DevOps tools like Terraform, Jenkins, and Docker.
